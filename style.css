@@ -53,3 +53,10 @@
     display: none;
     text-align: center;
 }
+
+.correct{
+  background:  #00FF00;
+}
+.incorrect{
+  background: #FF0000;
+}
